@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+}
+#hack img{ 
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    margin: 0px 0px 0px 790px;
+    border-radius: 50%;
+}
+.container{
+    background-image: url("./cyber-hacker-attack-background-skull-free-vector.jpg");
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+P{
+    color: black;
+}
+.scam{
+    position: absolute;
+    margin: 40px 30px;
+  border-radius: 23px;
+    background-color: rgb(126, 126, 217);
+    color:aqua;
+    width: 385px;
+    padding: 10px;
+    height: 50;
+}
+.scam:hover{
+    color: rgb(140, 140, 228);
+    background-color: rgb(47, 231, 231);
+}
+.scam input{
+     margin: 0px 10px;
+    cursor: pointer;
+}
+
+button.btn{
+    position: absolute;
+    margin: 125px 175px;
+    background-color: rgb(222, 64, 64);
+    border-radius: 23px;
+}
+button.btn a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+button.btn:hover{
+    background-color : white;
+}
+button.btn a:hover{  
+    color: rgb(222, 64, 64);
+}
+
+
